@@ -1,8 +1,8 @@
 
 //Reto2-Clase5
 
-function sum (number1, number2) {
-    return number1 + number2;
+function sum (number1, number2, number3) {
+    return number1 + number2 +  number3;
 }
 
 function sums (number1, number2) {
